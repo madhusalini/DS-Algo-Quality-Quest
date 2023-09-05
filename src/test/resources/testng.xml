@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DSAlgo">
+    <test name="DSALgoTests">
+        <classes>
+            <class name="testRunner.MyTestRunner"/> <!-- Replace with your runner class -->
+        </classes>
+    </test>
+</suite>
